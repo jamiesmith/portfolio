@@ -1,8 +1,3 @@
----
-layout: layout.njk
-title: Jamie Smith's Portfolio
----
-
 # Jamie Smith's Portfolio
 
 Here's an example of some of the public-facing collateral that I've put together over the past few years.
