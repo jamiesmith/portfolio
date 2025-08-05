@@ -1,41 +1,3 @@
-# Jamie Smith's Portfolio
-
-Here's an example of some of the public-facing collateral that I've put together over the past few years. It's not an exhaustive list, and as time passes some things might have been replaced or removed.
-
-## Highlights
-
-| Thumbnail | Details |
-|---|---|
-| [![Thumbnail](thumbnails/apm-how-to.jpg)](https://www.elastic.co/blog/monitoring-applications-with-elasticsearch-and-elastic-apm) | [Monitoring Applications with Elasticsearch and Elastic APM](https://www.elastic.co/blog/monitoring-applications-with-elasticsearch-and-elastic-apm)<br>this [how-to blog](https://www.elastic.co/blog/monitoring-applications-with-elasticsearch-and-elastic-apm) (which was the overall top observability blog for both overall hits and time on page) was leveraged across the funnel- for onboarding, nurture flows, CTAs, etc. This blog helped kicked off an extremely successful APM awareness campaign. <br><br>**Outcomes**:<br><ul><li>Increased awareness of Elastic Observability as a complete APM solution</li><li>Expanded Elastic Cloud (Elastic's managed service) consumption for logging and metrics customers by ~25% year one</li><li>Helped to Elastic to being recognized as a Visionary in their first appearance of the Gartner APM Magic Quadrant (2021)</li></ul><br>  |
-| [Elastic Observability Video](https://www.youtube.com/watch?v=uCX24hRBULY/)<br>2021<br>I wrote the script, storyboarded the animations, and narrated this [Elastic Observability Overview video](https://www.youtube.com/watch?v=uCX24hRBULY), which was on the solution landing page for over a year | [![Thumbnail](thumbnails/o11y-intro.jpg)](https://www.youtube.com/watch?v=uCX24hRBULY/) |
-| [![Thumbnail](thumbnails/sscs.jpg)](https://snyk.io/articles/software-supply-chain-security/) | [Securing Your Modern Software Supply Chain](https://snyk.io/articles/software-supply-chain-security/)<br>This [article](https://snyk.io/articles/software-supply-chain-security/) about software supply chain security was used as a landing page in a successful GTM/ TOFU/MOFU campaign |
-| [Introduction to logging with the ELK/Elastic Stack](https://www.elastic.co/webinars/intro-to-elk-for-logging)<br>~2020<br>[Introduction to logging with the ELK/Elastic Stack](https://www.elastic.co/webinars/intro-to-elk-for-logging) was a fun one, focused on how to get started using the Elastic Stack for log and metrics analytics — the first steps on the path to observability.<br><br>I meticulously designed the presentation for this webinar so it could be packaged up for reuse. I presented it multiple times on webinars, and several SEs presented it themselves. It was used in meetups, customer events, and at the demo booths at conferences.<br><br>Talk about value from one piece of content!|[![Thumbnail](thumbnails/intro-to-logging-with-elastic.jpg)](https://www.elastic.co/blog/monitoring-applications-with-elasticsearch-and-elastic-apm)|
-| [![Thumbnail](thumbnails/Goingbeyondreachabilitytoprioritizewhatmattersmost.jpg)](https://snyk.io/blog/Reachability-for-vuln-prioritization/) | [Going beyond reachability to prioritize what matters most](https://snyk.io/blog/Reachability-for-vuln-prioritization/)<br>October 1, 2024<br>This was one of the cornerstone pieces for the "Holistic risk-based prioritization" campaign. Reachability is one signal, but not the only signal (and probably not the most important) |
-
-
-## Product/Solution Pages
-(Note that it's likely that these will get changed in the future, but accurate as of August 5, 2025)
-
-| Thumbnail | Details |
-|---|---|
-| [![Thumbnail](thumbnails/snyk-container.jpg)](https://snyk.io/product/container-vulnerability-management/) | [The Snyk Container Security landing page](https://snyk.io/product/container-vulnerability-management/)<br>This also had a one-pager layout for events |
-| [The Software Supply Chain Security Solution landing page](https://snyk.io/solutions/software-supply-chain-security/)<br>we also created a one-pager variant of this page which was used as a virtual handout for webinars  | [![Thumbnail](thumbnails/snyk-sscs.jpg)](https://snyk.io/solutions/software-supply-chain-security/) |
-
-
-
-## Other Webinars
-
-
-| Thumbnail | Details |
-|---|---|
-| [![Thumbnail](thumbnails/evolution-of-logging.jpg)](https://www.elastic.co/elasticon/archive/2021/solution-series/emea/evolution-of-logging-with-the-elastic-stack) | [Evolution of logging with the Elastic Stack](https://www.elastic.co/elasticon/archive/2021/solution-series/emea/evolution-of-logging-with-the-elastic-stack)<br>The Elastic Stack (or ELK Stack) had long been an enterprise standard for centralized logging, but they continued evolving the platform.<br><br>This was part the ElasticON tour, conferences for customers and users |
-| [Combining logs, metrics, and traces for unified observability](https://www.elastic.co/elasticon/archive/2021/event/north-america/combining-logs-metrics-and-traces-for-unified-observability)<br>This was part of a launch event. When Elastic started marketing an "observability solution", the term wasn't yet widely used (in fact, Gartner still just calls all of it "APM"). This was one of the first events that we actually leaned in on the term | [![Thumbnail](thumbnails/elk-o11y.jpg)](https://www.elastic.co/elasticon/archive/2021/event/north-america/combining-logs-metrics-and-traces-for-unified-observability) |
-| [![Thumbnail](thumbnails/cbir-webinar.jpg)](https://snyk.io/videos/snyklaunch-april-2023-container/) | [SnykLaunch April 2023 - Curated container security workflows](https://snyk.io/videos/snyklaunch-april-2023-container/)<br>April 4, 2023<br>This was a launch webinar for Snyk's Custom Base Image Recommendations, where I served as the SME with the product manager, to help spread awareness of a new feature that extended what was, at the time, Snyk Container's key differentiator. I also wrote a post-launch blog, [SnykLaunch recap: Custom Base Image Recommendations](https://snyk.io/blog/snyklaunch-recap-custom-base-image-recommendations/) |
-
-## Other Blogs
-
-Again, likely not exhaustive. I can already see that some have been removed (while I think that some had the author changed)
-
 | Thumbnail | Details |
 |---|---|
 | [![Thumbnail](thumbnails/Snyk-GeneratedSBOMsNowIncludeLicenseDetailsfortheO.jpg)](https://snyk.io/blog/include-license-info-in-your-sboms/) | [Snyk-Generated SBOMs Now Include License Details for the Open Source Libraries in Your Projects](https://snyk.io/blog/include-license-info-in-your-sboms/)<br>December 9, 2024<br>Snyk now includes license information in its generated SBOMs, giving developers a clearer picture of their application's components and associated license risks and simplifying compliance and security… |
@@ -68,5 +30,3 @@ Again, likely not exhaustive. I can already see that some have been removed (whi
 | [Here to Help... (An Elastic{ON} Canvas Story)](https://www.elastic.co/blog/elasticon-kibana-canvas-story-ama)<br>28 March 2018<br>... | [![Thumbnail](thumbnails/HeretoHelpAnElasticONCanvasStory.png)](https://www.elastic.co/blog/elasticon-kibana-canvas-story-ama) |
 | [![Thumbnail](thumbnails/ButFirstCoffeeAnElasticONCanvasStory.jpg)](https://www.elastic.co/blog/elasticon-kibana-canvas-story-elasticoffee) | [But First, Coffee... (An Elastic{ON} Canvas Story)](https://www.elastic.co/blog/elasticon-kibana-canvas-story-elasticoffee)<br>14 March 2018<br>See how we used Elasticsearch, Kibana, Canvas, and IoT to track beverage metrics at Elastic{ON)... |
 | [Monitor Your System with Metricbeat and Elastic Cloud](https://www.elastic.co/blog/ship-metrics-with-metricbeat-to-hosted-elasticsearch-elastic-cloud)<br>07 September 2017<br>Learn how to create hosted Elasticsearch deployment s, add users, create Kibana dashboards, and ship system metrics with Metricbeat.... | [![Thumbnail](thumbnails/MonitorYourSystemwithMetricbeatandElasticCloud.jpg)](https://www.elastic.co/blog/ship-metrics-with-metricbeat-to-hosted-elasticsearch-elastic-cloud) |
-
-
