@@ -1,5 +1,10 @@
 # Jamie Smith's Portfolio
 
+# NOTE: this has been moved to a new site.
+Jump over to my [Portfolio](https://www.jamiesmithnc.com)  site to see a more up-to-date list.
+
+<hr>
+
 Here's an example of some of the public-facing collateral that I've put together over the past few years. It's not an exhaustive list, and as time passes some things might have been replaced or removed.
 
 ## Highlights
