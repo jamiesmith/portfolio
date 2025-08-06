@@ -1,7 +1,7 @@
 # Jamie Smith's Portfolio
 
-# NOTE: this has been moved to a new site.
-Jump over to my [Portfolio](https://www.jamiesmithnc.com)  site to see a more up-to-date list.
+# NOTE: this has been [moved](https://www.jamiesmithnc.com) and GH doesn't support redirects :)
+Jump over to my [Portfolio](https://www.jamiesmithnc.com) to see a more up-to-date list.
 
 <hr>
 
